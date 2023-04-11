@@ -1,0 +1,49 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+  body {
+    background-image: url("https://img.freepik.com/free-vector/speed-light-spotlights-digital-background_23-2148821702.jpg");
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+    
+  }
+  
+  h1 , h2 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 5rem;
+    color: #f7f9cc;
+  }
+  h2{
+    font-size: 3rem;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+  }
+  
+  img {
+    width: 80%;
+  }
+  
+  footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+  
